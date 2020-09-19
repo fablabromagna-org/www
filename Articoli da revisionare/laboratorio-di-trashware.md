@@ -1,0 +1,10 @@
+---
+title: 'Laboratorio di Trashware'
+date: Sat, 29 Nov 2014 18:57:00 +0000
+draft: false
+tags: ['Senza categoria']
+---
+
+Mercoledì 26 Novembre 2014, presso l’ormai famigerato laboratorio 113 dell’ITIG Belluzzi – Da Vinci di Rimini, eravamo in 30.
+
+Situazione non semplice... troppi per un corso di stampa 3D. Serviva un diversivo per dividerli in due gruppi… Nel vicino LAB 112, negli ultimi mesi, si sono ammucchiati molti computer vecchi, in disuso ormai da anni e provenienti sia da altri laboratori, sia da donazioni di persone più o meno vicine alla scuola. Ho chiesto allora ai ragazzi se conoscevano il Trashware, un modo per indicare l’attività di riciclo del materiale tecnologico in particolar modo di vecchi PC. Non so perchè ma a circa 10-12 dei ragazzi presenti, l'idea di smontare un computer per vedere cosa c'era dentro è piaciuta molto e quindi me li sono portati via, sotto gli occhi felici di Alan che se l'era davvero vista brutta. Il buon Giulio Grossi  e il suo amico Mario Berardi della classe 5H hanno pensato bene (anzi male!) di riprendermi mentre spiego questa cosa. Eccomi qua in tutto il mio splendore (e la mia stazza) \[embedyt\]http://www.youtube.com/watch?v=HUrqGspDWEU\[/embedyt\] Gli altri ragazzi sono invece rimasti con Alan e il prof Giorgio Ronci dell'ITIG di Rimini, i quali si sono tolti la giacca e hanno iniziato il disegno di una molletta. [![WP_20141126_003 (Large)](http://fablabromagna.org/blog/wp-content/uploads/2014/11/WP_20141126_003-Large-1024x576.jpg)](http://fablabromagna.org/blog/wp-content/uploads/2014/11/WP_20141126_003-Large.jpg)   ed ecco la molletta a fine pomeriggio [![IMG_20141126_162024 (Large)](http://fablabromagna.org/blog/wp-content/uploads/2014/11/IMG_20141126_162024-Large-1024x768.jpg)](http://fablabromagna.org/blog/wp-content/uploads/2014/11/IMG_20141126_162024-Large.jpg)   Mentre qui abbiamo Alan. \[embedyt\]http://www.youtube.com/watch?v=BMmTAhmdLDs\[/embedyt\]
