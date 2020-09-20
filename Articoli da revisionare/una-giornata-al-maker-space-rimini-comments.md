@@ -2,7 +2,7 @@
 title: 'Una giornata al Maker Space Rimini'
 date: Sat, 29 Dec 2018 22:51:24 +0000
 draft: false
-tags: ['.NET', '.net core', 'eventi', 'makerspace Rimini', 'makerspace Rimini', 'xamarin', 'XAML']
+tags: ['.NET', '.net core', 'eventi', 'Maker Space Rimini', 'Maker Space Rimini', 'xamarin', 'XAML']
 ---
 
 

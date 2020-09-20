@@ -2,7 +2,7 @@
 title: 'Programmazione: una cosa per bambini!'
 date: Sat, 01 Mar 2014 06:59:16 +0000
 draft: false
-tags: ['makerspace Rimini']
+tags: ['Maker Space Rimini']
 ---
 
 

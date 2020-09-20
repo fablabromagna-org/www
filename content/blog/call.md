@@ -2,7 +2,7 @@
 title: 'Let''s Communicate! - Aiutaci a raccontarci'
 date: Tue, 11 Dec 2018 17:50:49 +0000
 draft: false
-tags: ['cesena', 'Fablab', 'FabLab Romagna', 'FablabRomagna', 'informagiovani', 'romagna']
+tags: ['cesena', 'FabLab Romagna', 'informagiovani', 'romagna']
 author: "Edoardo Savini"
 image: "images/post/Fablab-cerca-volontari-2000-300x300.png"
 ---
@@ -15,9 +15,7 @@ FabLab Romagna nasce principalmente per l'autoformazione vicina al mondo scolast
 
 **Facciamo tante cose e tante cose belle e nuove ma non riusciamo a comunicarle in maniera completa ed efficiente, per cui si è attivata** [**la collaborazione con Monty Banks e Informagiovani del Comune di Cesena**](http://www.comune.cesena.fc.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/39114)**.**  
 
-[La locandina del progetto.](images/post/Fablab-cerca-volontari-2000-300x300.png)
-
-La locandina del progetto.
+[La locandina del progetto.](/images/post/Fablab-cerca-volontari-2000-300x300.png)
 
 #### Attività
 
@@ -37,8 +35,8 @@ Dal 15 gennaio 2019 al 30 maggio 2019.
 
 Piazza del Popolo, 8 (all'interno del Foro Annonario)  
 
-**Orari di apertura al pubblico**  
-martedì, mercoledì e giovedì: 9:00-12:00 / 15:30-18:00   
+**Orari di apertura al pubblico**
+martedì, mercoledì e giovedì: 9:00-12:00 / 15:30-18:00
 venerdì: 9:00-12:30  
 
 Posta elettronica: [informagiovani@comune.cesena.fc.it](mailto:informagiovani@comune.cesena.fc.it)  
@@ -54,8 +52,6 @@ San Piero in Bagno
 **Orari di apertura al pubblico:**  
 Giovedì dalle 14:30 alle 18:30.
 
-Posta elettronica: [informagiovani@comune.bagnodiromagna.fc.it](mailto:informagiovani@comune.bagnodiromagna.fc.it)  
+Posta elettronica: [informagiovani@comune.bagnodiromagna.fc.it](mailto:informagiovani@comune.bagnodiromagna.fc.it)  
 
-Telefono: [0543 903 633](tel:+390543903633)
-
-> permalink da sistemare
+Telefono: [0543 903 633](tel:+390543903633)

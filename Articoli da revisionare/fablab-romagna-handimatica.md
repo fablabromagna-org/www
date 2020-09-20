@@ -5,11 +5,11 @@ draft: false
 tags: ['Senza categoria']
 ---
 
-#### Il sabato FabLab Romagna a Handimatica è andato bene.
+#### Il sabato FabLab Romagna a Handimatica  è andato bene.
 
-  [![Immagine 4](http://fablabromagna.org/blog/wp-content/uploads/2014/12/Immagine-4.png)](http://fablabromagna.org/blog/wp-content/uploads/2014/12/Immagine-4.png)   [![WP_20141129_11_26_35_Pro (Large)](http://fablabromagna.org/blog/wp-content/uploads/2014/12/WP_20141129_11_26_35_Pro-Large-1024x575.jpg)](http://fablabromagna.org/blog/wp-content/uploads/2014/12/WP_20141129_11_26_35_Pro-Large.jpg)
+   [![Immagine 4](http://fablabromagna.org/blog/wp-content/uploads/2014/12/Immagine-4.png)](http://fablabromagna.org/blog/wp-content/uploads/2014/12/Immagine-4.png)    [![WP_20141129_11_26_35_Pro (Large)](http://fablabromagna.org/blog/wp-content/uploads/2014/12/WP_20141129_11_26_35_Pro-Large-1024x575.jpg)](http://fablabromagna.org/blog/wp-content/uploads/2014/12/WP_20141129_11_26_35_Pro-Large.jpg)
 
-#### Come sempre, molto interesse per stampa 3D e tanta curiosità per i progetti dei nostri ragazzi.
+#### Come sempre, molto interesse per stampa 3D e tanta curiosità  per i  progetti dei nostri ragazzi.
 
 [![WP_20141129_11_27_35_Pro (Large)](http://fablabromagna.org/blog/wp-content/uploads/2014/12/WP_20141129_11_27_35_Pro-Large-1024x575.jpg)](http://fablabromagna.org/blog/wp-content/uploads/2014/12/WP_20141129_11_27_35_Pro-Large.jpg)
 
@@ -21,7 +21,7 @@ tags: ['Senza categoria']
 
 [![WP_20141129_12_48_24_Pro (Large)](http://fablabromagna.org/blog/wp-content/uploads/2014/12/WP_20141129_12_48_24_Pro-Large-1024x575.jpg)](http://fablabromagna.org/blog/wp-content/uploads/2014/12/WP_20141129_12_48_24_Pro-Large.jpg)
 
-#### Il nostro Roll-Up non manca mai.
+#### Il nostro  Roll-Up non manca mai.
 
 [![WP_20141129_12_51_37_Pro (Large)](http://fablabromagna.org/blog/wp-content/uploads/2014/12/WP_20141129_12_51_37_Pro-Large-1024x575.jpg)](http://fablabromagna.org/blog/wp-content/uploads/2014/12/WP_20141129_12_51_37_Pro-Large.jpg)
 

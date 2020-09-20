@@ -2,7 +2,7 @@
 title: 'Open Labs Stampa 3D'
 date: Wed, 12 Nov 2014 17:53:00 +0000
 draft: false
-tags: ['FabLab Romagna', 'makerspace Rimini', 'Stampa 3D']
+tags: ['FabLab Romagna', 'Maker Space Rimini', 'Stampa 3D']
 ---
 
 

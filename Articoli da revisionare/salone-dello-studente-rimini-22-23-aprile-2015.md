@@ -5,7 +5,7 @@ draft: false
 tags: ['Eventi']
 ---
 
-Oggi, una delegazione del FabLab Romagna, formata da alcuni ragazzi del quinto anno dell’ITIG Belluzzi – Da Vinci di Rimini, ha partecipato al Salone dello studente organizzato presso il bellissimo  [Palacongressi](http://www.riminipalacongressi.it/) di Rimini da [Campus Orienta](http://www.salonedellostudente.it/) .
+Oggi, una delegazione del FabLab Romagna, formata da alcuni ragazzi del quinto anno dell’ITIG Belluzzi – Da Vinci di Rimini, ha partecipato al Salone dello studente organizzato presso il bellissimo   [Palacongressi](http://www.riminipalacongressi.it/) di Rimini da [Campus Orienta](http://www.salonedellostudente.it/) .
 
 ![](http://www.salonedellostudente.it/wp-content/uploads/2015/03/campus-25-Copia.png)
 

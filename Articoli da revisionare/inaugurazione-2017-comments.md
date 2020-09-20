@@ -2,7 +2,7 @@
 title: 'Inaugurazione 2017'
 date: Sun, 01 Oct 2017 14:46:20 +0000
 draft: false
-tags: ['FabLab Romagna', 'makerspace Rimini']
+tags: ['FabLab Romagna', 'Maker Space Rimini']
 ---
 
 

@@ -2,7 +2,7 @@
 title: 'Ti sei mai chiesto…?'
 date: Mon, 12 Sep 2016 14:09:51 +0000
 draft: false
-tags: ['FabLab Romagna', 'makerspace Cesena', 'makerspace Rimini', 'Senza categoria']
+tags: ['FabLab Romagna', 'makerspace Cesena', 'Maker Space Rimini', 'Senza categoria']
 ---
 
 

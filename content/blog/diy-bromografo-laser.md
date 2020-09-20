@@ -2,7 +2,7 @@
 title: 'DIY Bromografo laser con pickup Blue Ray(tm)'
 date: Tue, 04 Feb 2014 03:47:00 +0000
 draft: false
-tags: ['FabLab Romagna', 'makerspace Rimini']
+tags: ['FabLab Romagna', 'Maker Space Rimini']
 author: "Maurizio Conti"
 type: "post"
 ---
@@ -13,7 +13,7 @@ Chi può, spende un capitale per rendersi autonomo in questa cosa.
 
 Negli anni ci sono stati diversi approcci, il photo plotter, la stampa laser su acetato, la macchina fresatrice (milling machine) a CNC, con più o meno varianti, il photoplotter a rullo in camera oscura…
 
-Insomma una pletora di idee.
+Insomma una pletora d'idee.
 
 Questa però mi mancava !
 

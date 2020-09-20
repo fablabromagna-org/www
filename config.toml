@@ -82,14 +82,14 @@ logo = "images/logo.png"
 home = "Home"
 # Meta data
 description = "This is meta description"
-author = "FabLabRomagna A.P.S."
+author = "FabLab Romagna A.P.S."
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # Contact Information
-email = "demo@email.com"
-location = "Dhaka, Bangladedsh"
+email = "posta@fablabromagna.org"
+location = "Cesena, Italy"
 # copyright
-copyright = "| copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved |"
+copyright = "| copyright &copy; 2020 FabLab Romagna A.P.S. |"
 
   # Preloader
   [params.preloader]
@@ -126,3 +126,6 @@ link = "#"
 title = "github"
 icon = "ti-github" # themify icon : https://themify.me/themify-icons
 link = "#"
+
+[markup.goldmark.renderer]
+unsafe= true

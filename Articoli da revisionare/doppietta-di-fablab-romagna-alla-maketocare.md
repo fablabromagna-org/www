@@ -8,6 +8,6 @@ image: "images/post/TecnoBBrace.jpg"
 type: "post"
 ---
 
-Complimenti a Nicolò Vallana, Edoardo Puce e Luca Fermi che questa sera, con il loro progetto Tecno B-Brace,  hanno vinto un viaggio in Silicon Valley grazie al concorso che ogni anno Sanofi Italia organizza alla Maker Faire di Roma.
+Complimenti a Nicolò Vallana, Edoardo Puce e Luca Fermi che questa sera, con il loro progetto Tecno B-Brace,   hanno vinto un viaggio in Silicon Valley grazie al concorso che ogni anno Sanofi Italia organizza alla Maker Faire di Roma.
 
 ![](images/post/TecnoBBrace.jpg)

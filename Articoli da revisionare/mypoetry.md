@@ -2,10 +2,10 @@
 title: 'MyPoetry'
 date: Thu, 02 Oct 2014 21:28:27 +0000
 draft: false
-tags: ['App', 'FabLab Romagna', 'makerspace Rimini', 'Plaquette', 'Poesia', 'Store', 'Taccuino', 'Virtuale', 'Windows', 'WinRT']
+tags: ['App', 'FabLab Romagna', 'Maker Space Rimini', 'Plaquette', 'Poesia', 'Store', 'Taccuino', 'Virtuale', 'Windows', 'WinRT']
 ---
 
-![Logo](http://wstaw.org/m/2014/10/02/logoBig.png)  
+![Logo](http://wstaw.org/m/2014/10/02/logoBig.png)   
 
 > MyPoetry è la prima applicazione al mondo interamente dedicata alla scrittura, alla lettura e alla condivisione di poesie.
 
@@ -48,11 +48,11 @@ MyPoetry è un’applicazione WinRT, scritta in linguaggio C#, caratterizzata da
 
 **Editor**
 
-Un aspetto fondamentale di MyPoetry è quello riguardante l’editor testuale. Risulta essere di vitale importanza, infatti, mettere a disposizione dell’utente una serie di strumenti in grado di facilitare la scrittura dei propri testi. Prenden do esempio da alcuni dei più conosciuti programmi di scrittura, l’applicazione fornisce differenti funzioni progettate per la composizione di poesie e alcune possibilità di personalizzazione associate ai caratteri utilizzati. L'app può anche vantare la presenza di "tools" unici, come vocabolari e opzioni di ricerca.
+Un aspetto  fondamentale di MyPoetry è quello riguardante l’editor testuale. Risulta essere di vitale importanza, infatti, mettere a disposizione dell’utente una serie di strumenti in grado di facilitare la scrittura dei propri testi. Prenden do esempio da alcuni dei più conosciuti programmi di scrittura, l’applicazione fornisce differenti funzioni progettate per la composizione di poesie e alcune possibilità di personalizzazione associate ai caratteri utilizzati. L'app può anche vantare la presenza di "tools" unici, come vocabolari e opzioni di ricerca.
 
 * * *
 
-**Taccuino** La sezione che permette di leggere e interagire coi propri scritti è una delle più importanti dell’intera applicazione e, conseguentemente, si rivela essere ricca di funzionalità e opzioni gestionali. All'interno del proprio taccuino, inoltre, è anche possibile impostare segnalibri e condividere i propri testi.
+**Taccuino** La sezione che permette di leggere e interagire coi propri scritti è una delle più importanti dell’intera applicazione e, conseguentemente, si rivela essere ricca di funzionalità  e opzioni gestionali. All'interno del proprio taccuino, inoltre, è anche possibile impostare segnalibri e condividere i propri testi.
 
 * * *
 
@@ -60,7 +60,7 @@ Un aspetto fondamentale di MyPoetry è quello riguardante l’editor testuale. 
 
 * * *
 
-**Dizionari** MyPoetry consente di accedere in qualsiasi momento a una serie di dizionari in grado di fornire informazioni di varia utilità. Tra questi, l'utente potrà consultare l'edizione online di "Tra virgolette" (contenente più di 8500 citazioni) e un elenco completo di figure retoriche, a scopi educativi e di approfondimento.
+**Dizionari** MyPoetry consente di accedere in qualsiasi momento a una serie di dizionari in grado di fornire informazioni di varia utilità. Tra questi, l'utente potrà  consultare l'edizione online di "Tra virgolette" (contenente più di 8500 citazioni) e un elenco completo di figure retoriche, a scopi educativi e di approfondimento.
 
 * * *
 
@@ -72,7 +72,7 @@ Un aspetto fondamentale di MyPoetry è quello riguardante l’editor testuale. 
 
 * * *
 
-Frutto dello spirito di collaborazione che contraddistingue FabLab Romagna, MyPoetry è stato realizzato da _**Giacomo Frisoni**_ e _**Marcin Pabich**_ con l'aiuto di Isabella Leardini e del professore Maurizio Conti.
+Frutto dello spirito di collaborazione che contraddistingue FabLab Romagna, MyPoetry è stato realizzato  da _**Giacomo Frisoni**_ e _**Marcin Pabich**_ con l'aiuto di Isabella Leardini e del professore Maurizio Conti.
 
 > L'applicazione è ancora in fase di sviluppo e sarà lanciata su "parcopoesia.it", festival della giovane poesia italiana.
 
@@ -87,4 +87,4 @@ Per chi fosse interessato, il progetto e i relativi autori saranno presenti alla
 Per info e contatti:
 
 *   _**Giacomo Frisoni:**_giacomofrisoni@gmail.com
-*   _**Marcin Pabich:**_ martinoqom@gmail.com
+*   _**Marcin Pabich:**_  martinoqom@gmail.com

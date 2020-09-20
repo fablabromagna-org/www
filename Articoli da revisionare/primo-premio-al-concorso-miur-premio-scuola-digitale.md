@@ -2,7 +2,7 @@
 title: 'Primo premio al concorso MIUR Premio Scuola Digitale'
 date: Thu, 11 Oct 2018 19:50:31 +0000
 draft: false
-tags: ['ESP8266', 'Eventi', 'FablabRomagna', 'makerspace Rimini']
+tags: ['ESP8266', 'Eventi', 'FablabRomagna', 'Maker Space Rimini']
 ---
 
 Premio Scuola Digitale di Forlì promosso dal #MIUR e organizzato da IPSSAR Artusi di Riolo Terme.  

@@ -2,23 +2,22 @@
 title: 'A scuola di shield I°'
 date: Mon, 13 May 2013 03:40:00 +0000
 draft: false
-tags: ['Arduino', 'Fablab', 'FablabRomagna', 'makerspace Rimini']
+tags: ['Arduino', 'Fablab', 'FablabRomagna', 'Maker Space Rimini']
 author: "Maurizio Conti"
-image: "http://lh5.ggpht.com/-lYHtvaNRoII/UZJY81QjaAI/AAAAAAAAANQ/lR9BfZ0cupk/IMG_1750_thumb%25255B1%25255D.jpg?imgmax=800"
+image: "https://lh5.ggpht.com/-lYHtvaNRoII/UZJY81QjaAI/AAAAAAAAANQ/lR9BfZ0cupk/IMG_1750_thumb%25255B1%25255D.jpg?imgmax=800"
 ---
 Lunedì 13 Maggio 2013, presso i locali del FABLAB ROMAGNA a S. Martino dei Mulini (RN) si è tenuta la prima serata dedicata alle tecniche di assemblaggio dei circuiti elettronici.
 
-![](http://lh6.ggpht.com/-uHvVgJD4L6Q/UZJYtw8g3SI/AAAAAAAAAJw/GntaTga7IvU/IMG_1765_thumb.jpg?imgmax=800)![](http://lh3.ggpht.com/-j6T6POh9HYQ/UZJYyUJzYoI/AAAAAAAAAKA/Oiw259LMKns/IMG_1764_thumb.jpg?imgmax=800)
-
+![](https://lh6.ggpht.com/-uHvVgJD4L6Q/UZJYtw8g3SI/AAAAAAAAAJw/GntaTga7IvU/IMG_1765_thumb.jpg?imgmax=800)![](http://lh3.ggpht.com/-j6T6POh9HYQ/UZJYyUJzYoI/AAAAAAAAAKA/Oiw259LMKns/IMG_1764_thumb.jpg?imgmax=800)
 
 
 Tutto pronto. Ecco la postazione dedicata al prof Vaccari!
 
-![](http://lh4.ggpht.com/-f6xFFRYl0JM/UZJbn4kOjlI/AAAAAAAAAM4/cdqtAFXQdU8/IMG_1760_thumb%25255B1%25255D.jpg?imgmax=800)
+![](https://lh4.ggpht.com/-f6xFFRYl0JM/UZJbn4kOjlI/AAAAAAAAAM4/cdqtAFXQdU8/IMG_1760_thumb%25255B1%25255D.jpg?imgmax=800)
 
 
 
-Era presente una delegazione dell’ITIS Pascal di Cesena (prof Vaccari e prof Lombardi)  che sotto la supervisione di Steve Jobs in persona ha saldato egregiamente un connettore passo 2.54 che non era per nulla facile da gestire.
+Era presente una delegazione dell’ITIS Pascal di Cesena (prof Vaccari e prof Lombardi)   che sotto la supervisione di Steve Jobs in persona ha saldato egregiamente un connettore passo 2.54 che non era per nulla facile da gestire.
 
 ![](http://lh5.ggpht.com/-lYHtvaNRoII/UZJY81QjaAI/AAAAAAAAANQ/lR9BfZ0cupk/IMG_1750_thumb%25255B1%25255D.jpg?imgmax=800)![](http://lh3.ggpht.com/-_VwFGVVjpdM/UZJZCjSa3UI/AAAAAAAAAKw/hmHtgvDQTSw/IMG_1745_thumb.jpg?imgmax=800)![](http://lh3.ggpht.com/-31bMpUzLLeE/UZJZHNl8X4I/AAAAAAAAALA/IRFNQM7uUSY/IMG_1752_thumb.jpg?imgmax=800)
 
