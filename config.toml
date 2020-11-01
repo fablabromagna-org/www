@@ -4,7 +4,7 @@ title = "FabLab Romagna"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
-disqusShortname = ""
+disqusShortname = "fablabromagna"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
@@ -103,28 +103,28 @@ copyright = "| copyright &copy; 2020 FabLab Romagna A.P.S. |"
 ############################ news letter ########################
 [params.newsletter]
 enable = false
-title = "Join Our Newsletter"
+title = "Iscriviti alla nostra Newsletter"
 content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero"
 
 ############################# social site ########################
 [[params.social]]
 title = "facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/fablabromagna/"
 
 [[params.social]]
 title = "twitter"
 icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "tumblr"
-icon = "ti-tumblr" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://twitter.com/fablabromagna"
 
 [[params.social]]
 title = "github"
 icon = "ti-github" # themify icon : https://themify.me/themify-icons
+link = "https://github.com/fablabromagna-org"
+
+[[params.social]]
+title = "more"
+icon = "ti-more" # themify icon : https://themify.me/themify-icons
 link = "#"
 
 [markup.goldmark.renderer]
