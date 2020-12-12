@@ -21,9 +21,9 @@ Date corso e orari:
  
 Luogo: Makerspace di Cesena c/o ITT Blaise Pascal, Piazzale Macrelli, 100
 
-Prezzo:Gratuito
+Prezzo:Gratuito\*
 
-Mail: info@fablabromagna.org
+Mail: [info@fablabromagna.org](mailto:info@fablabromagna.org)
 
 ## Corsi a Rimini 
 Docente: Ivan Tarozzi
@@ -42,6 +42,9 @@ Date corso e orari:
 
 Luogo: Makerspace di Rimini presso ITTS Belluzzi – da Vinci – Via A. Costa 20
 
-Prezzo: Gratuito
+Prezzo: Gratuito\*
 
-Mail:info@fablabromagna.org
+Mail: [info@fablabromagna.org](mailto:info@fablabromagna.org)
+
+\* I **corsi** FabLab Romagna di Raspberry Pi, grazie ad un finanziamento di Rotary International, sono **gratuiti**.
+Iscrivendovi non avrete oneri ulteriori e vi saranno inviate comunicazioni riguardanti solo ed esclusivamente i corsi FabLab Romagna.

@@ -19,7 +19,7 @@ Sarei interessato ai vostri corsi di modellazione 3d per stampanti Potrei avere 
 #### 
 [Maurizio]( "posta@maurizioconti.com") - <time datetime="2018-03-25 10:26:10">Mar 0, 2018</time>
 
-Non abbiamo un numero di telefono ma ci potete raggiungere scrivendo a posta@fablabromagna.org --- Per avere un'idea di quando siamo aperti, è possibile consultare il nostro calendario http://fablabromagna.org/blog/appuntamenti/ Cerchiamo di tenerlo sempre aggiornato con le aperture dei vari MakerSpace (Rimini, Cesena, Forlì) --- Utilizziamo inoltre un canale Telegram https://t.me/FLRNews al quale ci si può iscrivere per ricevere le comunicazioni urgenti (ad esempio quando il lab è chiuso per cause di forza maggiore) o per le news.
+Non abbiamo un numero di telefono ma ci potete raggiungere scrivendo a [posta@fablabromagna.org](mailto:posta@fablabromagna.org) --- Per avere un'idea di quando siamo aperti, è possibile consultare il nostro calendario http://fablabromagna.org/blog/appuntamenti/ Cerchiamo di tenerlo sempre aggiornato con le aperture dei vari MakerSpace (Rimini, Cesena, Forlì) --- Utilizziamo inoltre un canale Telegram https://t.me/FLRNews al quale ci si può iscrivere per ricevere le comunicazioni urgenti (ad esempio quando il lab è chiuso per cause di forza maggiore) o per le news.
 <hr />
 #### 
 [Fabio]( "fpozzirn@gmail.com") - <time datetime="2018-03-24 16:05:44">Mar 6, 2018</time>

@@ -14,7 +14,7 @@ Dal 1 ottobre 2019 fino al termine dell'anno scolastico, tutti i martedì (esclu
 
 **Eventuali variazioni saranno comunicate tramite il** [**calendario degli appuntamenti**](https://fablabromagna.org/appuntamenti/)**.**
 
-Sei un nuovo Maker? Contatta posta@fablabromagna.org e avvisaci del tuo arrivo!
+Sei un nuovo Maker? Contatta [posta@fablabromagna.org](mailto:posta@fablabromagna.org) e avvisaci del tuo arrivo!
 
 Maker Space Rimini
 ------------------

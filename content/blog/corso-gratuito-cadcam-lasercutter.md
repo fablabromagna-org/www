@@ -38,7 +38,7 @@ Piazzale Macrelli, 100
 Gratuito\*
 
 **Mail:**
-posta@fablabromagna.org 
+[posta@fablabromagna.org](mailto:posta@fablabromagna.org)
 
 [![](images/post/IscrivitiACesena.png)](https://docs.google.com/forms/d/e/1FAIpQLSdkSx6y_TSwtcS81F6ob7W2uhnDe7bgVwho8-lscjoaaQi9pw/viewform)
 

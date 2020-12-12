@@ -1,12 +1,10 @@
 ---
-
 title: 'Alternanza Scuola Lavoro Nel FabLab'
 date: Thu, 05 Jul 2018 14:43:50 +0000
 draft: false
 tags: ['Corsi', 'Educazione', 'FabLab Romagna', 'Laser cutter', 'makerspace Cesena']
 author: "Maurizio Conti"
 type: "post"
-
 ---
 
 <div>
