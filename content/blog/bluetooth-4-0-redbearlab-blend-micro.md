@@ -4,6 +4,7 @@ date: Thu, 22 May 2014 17:03:00 +0000
 draft: false
 tags: ['Arduino', 'FabLab Romagna', 'Maker Space Rimini']
 author: "Maurizio Conti"
+type: "post"
 image: "images/post/14200080047_f045f57d67_o.jpg"
 ---
 
