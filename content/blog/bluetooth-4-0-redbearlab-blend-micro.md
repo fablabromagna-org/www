@@ -1,4 +1,4 @@
- ---
+---
 title: 'Bluetooth 4.0 - RedBearLab Blend Micro'
 date: Thu, 22 May 2014 17:03:00 +0000
 draft: false
