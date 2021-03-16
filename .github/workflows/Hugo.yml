@@ -1,0 +1,24 @@
+name: Hugo
+
+workflow "Hugo build" {
+  resolves = [
+    "Hugo Action",
+  ]
+  on = "push"
+}
+
+action "Fetch git submodules" {
+  uses = "srt32/git-actions@master"
+  args = "cd themes && git clone https://github.com/fablabromagna-org/liva-hugo"
+}
+
+action "Hugo Action" {
+  uses = "srt32/hugo-action@master"
+  needs = ["Filters for GitHub Actions", "Fetch git submodules"]
+  args = ""
+}
+
+action "Filters for GitHub Actions" {
+  uses = "actions/bin/filter@b2bea0749eed6beb495a8fa194c071847af60ea1"
+  args = "branch master"
+}
