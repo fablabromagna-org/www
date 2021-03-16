@@ -660,3 +660,4 @@ MigrationBackup/
 .ionide/
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,macos,linux,visualstudio,visualstudiocode,hugo,jetbrains+all,node,yarn
+.vscode/settings.json
