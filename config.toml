@@ -89,7 +89,7 @@ googleAnalitycsID = "Your ID"
 email = "posta@fablabromagna.org"
 location = "Cesena, Italy"
 # copyright
-copyright = "| copyright &copy; 2020 FabLab Romagna A.P.S. |"
+copyright = "| copyright &copy; 2021 FabLab Romagna A.P.S. |"
 
   # Preloader
   [params.preloader]
