@@ -1,4 +1,4 @@
-baseURL = "https://fablabromagna.org/"
+baseURL = "https://www.fablabromagna.org/"
 languageCode = "it"
 title = "FabLab Romagna"
 theme = "liva-hugo"
