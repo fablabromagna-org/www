@@ -2,54 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FabLab Romagna</title>
-    <link>https://fablabromagna.org/tags/fablab-romagna/</link>
+    <link>https://www.fablabromagna.org/tags/fablab-romagna/</link>
     <description>Recent content on FabLab Romagna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 11 Dec 2020 17:50:00 +0000</lastBuildDate><atom:link href="https://fablabromagna.org/tags/fablab-romagna/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Dec 2020 17:50:00 +0000</lastBuildDate><atom:link href="https://www.fablabromagna.org/tags/fablab-romagna/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FLR a Maker Faire 2020</title>
-      <link>https://fablabromagna.org/blog/flr-a-maker-faire-2020/</link>
+      <link>https://www.fablabromagna.org/blog/flr-a-maker-faire-2020/</link>
       <pubDate>Fri, 11 Dec 2020 17:50:00 +0000</pubDate>
       
-      <guid>https://fablabromagna.org/blog/flr-a-maker-faire-2020/</guid>
+      <guid>https://www.fablabromagna.org/blog/flr-a-maker-faire-2020/</guid>
       <description>Servizio Marconi alla Maker Faire 2020
 In questo “strano” Natale, grazie al Servizio Marconi (USR-ER), FabLab Romagna sarà presente alla MF Roma 2020.</description>
     </item>
     
     <item>
       <title>Let&#39;s Communicate! - Aiutaci a raccontarci</title>
-      <link>https://fablabromagna.org/blog/call/</link>
+      <link>https://www.fablabromagna.org/blog/call/</link>
       <pubDate>Tue, 11 Dec 2018 17:50:49 +0000</pubDate>
       
-      <guid>https://fablabromagna.org/blog/call/</guid>
+      <guid>https://www.fablabromagna.org/blog/call/</guid>
       <description>Informagiovani, Monty Banks, Progetto Giovani e FabLab Romagna Il FabLab è uno spazio pubblico inteso come luogo comune per potenziare o avviare attività professionali ed aziendali favorendo lo scambio e la collaborazione multidisciplinare.</description>
     </item>
     
     <item>
       <title>Alternanza Scuola Lavoro Nel FabLab</title>
-      <link>https://fablabromagna.org/blog/alternanza-scuola-lavoro-nel-fablab/</link>
+      <link>https://www.fablabromagna.org/blog/alternanza-scuola-lavoro-nel-fablab/</link>
       <pubDate>Thu, 05 Jul 2018 14:43:50 +0000</pubDate>
       
-      <guid>https://fablabromagna.org/blog/alternanza-scuola-lavoro-nel-fablab/</guid>
+      <guid>https://www.fablabromagna.org/blog/alternanza-scuola-lavoro-nel-fablab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bluetooth 4.0 - RedBearLab Blend Micro</title>
-      <link>https://fablabromagna.org/blog/bluetooth-4-0-redbearlab-blend-micro/</link>
+      <link>https://www.fablabromagna.org/blog/bluetooth-4-0-redbearlab-blend-micro/</link>
       <pubDate>Thu, 22 May 2014 17:03:00 +0000</pubDate>
       
-      <guid>https://fablabromagna.org/blog/bluetooth-4-0-redbearlab-blend-micro/</guid>
+      <guid>https://www.fablabromagna.org/blog/bluetooth-4-0-redbearlab-blend-micro/</guid>
       <description>C’è un nuovo modulo Bluetooth 4.0 nato in casa RedBear e, neanche a dirlo, al suo interno batte un cuore Arduino.</description>
     </item>
     
     <item>
       <title>DIY Bromografo laser con pickup Blue Ray(tm)</title>
-      <link>https://fablabromagna.org/blog/diy-bromografo-laser/</link>
+      <link>https://www.fablabromagna.org/blog/diy-bromografo-laser/</link>
       <pubDate>Tue, 04 Feb 2014 03:47:00 +0000</pubDate>
       
-      <guid>https://fablabromagna.org/blog/diy-bromografo-laser/</guid>
+      <guid>https://www.fablabromagna.org/blog/diy-bromografo-laser/</guid>
       <description>La realizzazione dei circuiti stampati per un progettista elettronico e quindi per un makers è da sempre una chimera.</description>
     </item>
     

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trinket on FabLab Romagna</title>
-    <link>https://fablabromagna.org/tags/trinket/</link>
+    <link>https://www.fablabromagna.org/tags/trinket/</link>
     <description>Recent content in Trinket on FabLab Romagna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 28 Apr 2014 10:11:00 +0000</lastBuildDate><atom:link href="https://fablabromagna.org/tags/trinket/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Apr 2014 10:11:00 +0000</lastBuildDate><atom:link href="https://www.fablabromagna.org/tags/trinket/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Trinket: appunti sulla prima installazione</title>
-      <link>https://fablabromagna.org/blog/appunti-sulla-prima-installazione-di-trinket/</link>
+      <link>https://www.fablabromagna.org/blog/appunti-sulla-prima-installazione-di-trinket/</link>
       <pubDate>Mon, 28 Apr 2014 10:11:00 +0000</pubDate>
       
-      <guid>https://fablabromagna.org/blog/appunti-sulla-prima-installazione-di-trinket/</guid>
+      <guid>https://www.fablabromagna.org/blog/appunti-sulla-prima-installazione-di-trinket/</guid>
       <description>Questo documento è una sintesi veloce dei passi necessari all’installazione di Trinket su un PC Windows 8.</description>
     </item>
     

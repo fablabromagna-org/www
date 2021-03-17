@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on FabLab Romagna</title>
-    <link>https://fablabromagna.org/categories/</link>
+    <link>https://www.fablabromagna.org/categories/</link>
     <description>Recent content in Categories on FabLab Romagna</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>it</language><atom:link href="https://fablabromagna.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>it</language><atom:link href="https://www.fablabromagna.org/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

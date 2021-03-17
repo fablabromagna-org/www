@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>git on FabLab Romagna</title>
-    <link>https://fablabromagna.org/tags/git/</link>
+    <link>https://www.fablabromagna.org/tags/git/</link>
     <description>Recent content in git on FabLab Romagna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 04 Jan 2019 18:25:39 +0000</lastBuildDate><atom:link href="https://fablabromagna.org/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Jan 2019 18:25:39 +0000</lastBuildDate><atom:link href="https://www.fablabromagna.org/tags/git/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bis di lasagne</title>
-      <link>https://fablabromagna.org/blog/bis-di-lasagne/</link>
+      <link>https://www.fablabromagna.org/blog/bis-di-lasagne/</link>
       <pubDate>Fri, 04 Jan 2019 18:25:39 +0000</pubDate>
       
-      <guid>https://fablabromagna.org/blog/bis-di-lasagne/</guid>
+      <guid>https://www.fablabromagna.org/blog/bis-di-lasagne/</guid>
       <description>Ieri abbiamo ripetuto la giornata di venerdì 28 dicembre 2018 al Maker Space Rimini, all&amp;rsquo;insegna della condivisione delle conoscenze.</description>
     </item>
     

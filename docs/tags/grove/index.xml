@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Grove on FabLab Romagna</title>
-    <link>https://fablabromagna.org/tags/grove/</link>
+    <link>https://www.fablabromagna.org/tags/grove/</link>
     <description>Recent content in Grove on FabLab Romagna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 11 Dec 2020 17:50:00 +0000</lastBuildDate><atom:link href="https://fablabromagna.org/tags/grove/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Dec 2020 17:50:00 +0000</lastBuildDate><atom:link href="https://www.fablabromagna.org/tags/grove/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FLR a Maker Faire 2020</title>
-      <link>https://fablabromagna.org/blog/flr-a-maker-faire-2020/</link>
+      <link>https://www.fablabromagna.org/blog/flr-a-maker-faire-2020/</link>
       <pubDate>Fri, 11 Dec 2020 17:50:00 +0000</pubDate>
       
-      <guid>https://fablabromagna.org/blog/flr-a-maker-faire-2020/</guid>
+      <guid>https://www.fablabromagna.org/blog/flr-a-maker-faire-2020/</guid>
       <description>Servizio Marconi alla Maker Faire 2020
 In questo “strano” Natale, grazie al Servizio Marconi (USR-ER), FabLab Romagna sarà presente alla MF Roma 2020.</description>
     </item>

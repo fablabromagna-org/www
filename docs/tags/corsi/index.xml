@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Corsi on FabLab Romagna</title>
-    <link>https://fablabromagna.org/tags/corsi/</link>
+    <link>https://www.fablabromagna.org/tags/corsi/</link>
     <description>Recent content in Corsi on FabLab Romagna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 14 Oct 2019 16:50:51 +0000</lastBuildDate><atom:link href="https://fablabromagna.org/tags/corsi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Oct 2019 16:50:51 +0000</lastBuildDate><atom:link href="https://www.fablabromagna.org/tags/corsi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Codey Rocky per la Scuola Primaria</title>
-      <link>https://fablabromagna.org/blog/codey-rocky-per-la-scuola-primaria/</link>
+      <link>https://www.fablabromagna.org/blog/codey-rocky-per-la-scuola-primaria/</link>
       <pubDate>Mon, 14 Oct 2019 16:50:51 +0000</pubDate>
       
-      <guid>https://fablabromagna.org/blog/codey-rocky-per-la-scuola-primaria/</guid>
+      <guid>https://www.fablabromagna.org/blog/codey-rocky-per-la-scuola-primaria/</guid>
       <description>Introduzione alla programmazione a blocchi con Codey Rocky, robot programmabile</description>
     </item>
     
     <item>
       <title>Alternanza Scuola Lavoro Nel FabLab</title>
-      <link>https://fablabromagna.org/blog/alternanza-scuola-lavoro-nel-fablab/</link>
+      <link>https://www.fablabromagna.org/blog/alternanza-scuola-lavoro-nel-fablab/</link>
       <pubDate>Thu, 05 Jul 2018 14:43:50 +0000</pubDate>
       
-      <guid>https://fablabromagna.org/blog/alternanza-scuola-lavoro-nel-fablab/</guid>
+      <guid>https://www.fablabromagna.org/blog/alternanza-scuola-lavoro-nel-fablab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Corso gratuito CAD/CAM &amp; Laser Cutter</title>
-      <link>https://fablabromagna.org/blog/corso-gratuito-cadcam-lasercutter/</link>
+      <link>https://www.fablabromagna.org/blog/corso-gratuito-cadcam-lasercutter/</link>
       <pubDate>Fri, 28 Apr 2017 08:01:54 +0000</pubDate>
       
-      <guid>https://fablabromagna.org/blog/corso-gratuito-cadcam-lasercutter/</guid>
+      <guid>https://www.fablabromagna.org/blog/corso-gratuito-cadcam-lasercutter/</guid>
       <description>Dal ProgeCAD alla laser cutter - Corso di CAD 2D Elementi base di CAD 2D, col software ProgeCAD, per arrivare a progettare oggetti prodotti da una laser cutter.</description>
     </item>
     
     <item>
       <title>Corso gratuito Raspberry Pi</title>
-      <link>https://fablabromagna.org/blog/corso-gratuito-raspberry-pi-cesena-rimini-forli_old/</link>
+      <link>https://www.fablabromagna.org/blog/corso-gratuito-raspberry-pi-cesena-rimini-forli_old/</link>
       <pubDate>Fri, 18 Mar 2016 14:50:54 +0000</pubDate>
       
-      <guid>https://fablabromagna.org/blog/corso-gratuito-raspberry-pi-cesena-rimini-forli_old/</guid>
+      <guid>https://www.fablabromagna.org/blog/corso-gratuito-raspberry-pi-cesena-rimini-forli_old/</guid>
       <description>Corsi a Cesena Docente: Stefano Castagnoli
 Professione: Ingegnere e Insegnante Tecnico Pratico di Informatica</description>
     </item>
