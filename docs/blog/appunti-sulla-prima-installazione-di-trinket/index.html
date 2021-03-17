@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="it"><head>
+  <meta charset="utf-8">
+  <title>FabLab Romagna</title>
+
+  <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="This is meta description">
+  <meta name="author" content="FabLab Romagna A.P.S.">
+  <meta name="generator" content="Hugo 0.77.0" />
+
+  <!-- plugins -->
+  
+  <link rel="stylesheet" href="https://fablabromagna.org/plugins/bootstrap/bootstrap.min.css ">
+  
+  <link rel="stylesheet" href="https://fablabromagna.org/plugins/slick/slick.css ">
+  
+  <link rel="stylesheet" href="https://fablabromagna.org/plugins/themify-icons/themify-icons.css ">
+  
+  <link rel="stylesheet" href="https://fablabromagna.org/plugins/venobox/venobox.css ">
+  
+
+  <!-- Main Stylesheet -->
+  
+  <link rel="stylesheet" href="https://fablabromagna.org/scss/style.min.css" media="screen">
+
+  <!--Favicon-->
+  <link rel="shortcut icon" href="https://fablabromagna.org/images/favicon.png " type="image/x-icon">
+  <link rel="icon" href="https://fablabromagna.org/images/favicon.png " type="image/x-icon">
+
+</head><body><!-- navigation -->
+<header class="navigation">
+  <div class="container">
+    
+    <nav class="navbar navbar-expand-lg navbar-white bg-transparent border-bottom pl-0">
+      <a class="navbar-brand mobile-view" href="https://fablabromagna.org/"><img height="" width="125" class="img-fluid"
+          src="https://fablabromagna.org/images/logo.png" alt="FabLab Romagna"></a>
+      <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
+        <i class="ti-menu h3"></i>
+      </button>
+
+      <div class="collapse navbar-collapse text-center" id="navigation">
+        <div class="desktop-view">
+          <ul class="navbar-nav mr-auto">
+            
+            <li class="nav-item">
+              <a class="nav-link" href="https://github.com/fablabromagna-org"><i class="ti-github"></i></a>
+            </li>
+            
+            <li class="nav-item">
+              <a class="nav-link" href="https://www.instagram.com/fablabromagna/"><i class="ti-instagram"></i></a>
+            </li>
+            
+            <li class="nav-item">
+              <a class="nav-link" href="https://www.facebook.com/fablabromagna/"><i class="ti-facebook"></i></a>
+            </li>
+            
+            <li class="nav-item">
+              <a class="nav-link" href="#"><i class="ti-more"></i></a>
+            </li>
+            
+          </ul>
+        </div>
+
+        <a class="navbar-brand mx-auto desktop-view" href="https://fablabromagna.org/"><img height="" width="175" class="img-fluid" src="https://fablabromagna.org/images/logo.png" alt="FabLab Romagna"></a>
+
+        <ul class="navbar-nav">
+          
+          
+          <li class="nav-item">
+            <a class="nav-link" href="https://fablabromagna.org/about">Informazioni</a>
+          </li>
+          
+          
+          
+          <li class="nav-item">
+            <a class="nav-link" href="https://fablabromagna.org/blog">Post</a>
+          </li>
+          
+          
+          
+          <li class="nav-item">
+            <a class="nav-link" href="https://fablabromagna.org/contact">Contatti</a>
+          </li>
+          
+          
+        </ul>
+
+        
+        <!-- search -->
+        <div class="search pl-lg-4">
+          <button id="searchOpen" class="search-btn"><i class="ti-search"></i></button>
+          <div class="search-wrapper">
+            <form action="https://fablabromagna.org//search" class="h-100">
+              <input class="search-box px-4" id="search-query" name="s" type="search" placeholder="Type & Hit Enter...">
+            </form>
+            <button id="searchClose" class="search-close"><i class="ti-close text-dark"></i></button>
+          </div>
+        </div>
+        
+
+        
+      </div>
+    </nav>
+  </div>
+</header>
+<!-- /navigation -->
+
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 mx-auto">
+        
+        <h2>Trinket: appunti sulla prima installazione</h2>
+        <div class="mb-3 post-meta">
+          <span>By Maurizio Conti</span>
+          
+          <span class="border-bottom border-primary px-2 mx-1"></span>
+          <span>28 April 2014</span>
+          
+        </div>
+        
+        <div class="content mb-5">
+          <p>Questo documento è una sintesi veloce dei passi necessari all’installazione di Trinket su un PC Windows 8.1 64Bit. Il documento completo è <a href="https://learn.adafruit.com/introducing-trinket/introduction">questo</a></p>
+<h3 id="fase-1-installare-i-drivers">Fase 1: Installare i drivers</h3>
+<p>Scaricare e dezippare il driver USB di Trinket per Windows 8.1 64bit <a href="http://learn.adafruit.com/system/assets/assets/000/010/319/original/usbtinyisp_w32_driver_v1.12.zip">da qui</a></p>
+<p><img src="/images/post/image_thumb8.png" alt="Screenshot di esplora risorse che elenca i seguenti file: libusb0.dll, libusb0.sys, libusb0_x64.dll, libusb0_x64,sys, usbtinyisp.cat, usbtinyisp.inf, usbtinyisp_x64.cat"></p>
+<p>Visto che i drivers di Trinket non sono firmati, Windows 8.1 vuole essere riavviato in una modalità particolare come <a href="http://answers.microsoft.com/en-us/windows/forum/windows_8-hardware/how-to-install-a-driver-that-does-not-contain/7c3f299b-3483-4c96-8c44-87c7451af222">riportato qui</a> Per fare questo, riavviare il sistema con il tasto SHIFT premuto poi scegliere: - Risoluzione dei problemi - Opzioni avanzate - Impostazioni di Avvio</p>
+<p><img src="/images/post/image_thumb9.png" alt="Menù a tendina del bottone &ldquo;Arresta&rdquo;, in Impostazioni PC, che elenca: Sospendi, Arresta il sistema e Riavvia il sistema. Con quest&rsquo;ultima opzione selezionata"></p>
+<p>Appena Windows si riavvia, appare una schermata azzurra con una serie di scelte: premere il tasto 7 (Disabilita Impostazioni Firma Drivers) Attento: non F7… proprio il tasto 7 (assicurati che il Num-Lock sia a posto sulla tastiera!!!) Appena Windows riparte, attaccare il Trinket ad una porta USB e andare in gestione dispositivi per installare il driver a mano.</p>
+<p><img src="/images/post/image_thumb10.png" alt="Menù a tendina dell&rsquo;elemento Trinket (figlio di &ldquo;Altri dispositivi&rdquo;) con l&rsquo;opzione &ldquo;Aggiornamento software driver&hellip;&rdquo; evidenziata"></p>
+<p>Puntare alla cartella dei drivers scaricati al passo precedente e accettare l’avviso rosso di Windows che ci allerta sul fatto che i drivers non sono firmati. <img src="/images/post/image11.png" alt="Finestra di dialogo di &ldquo;Sicurezza Windows&rdquo; che presenta le opzioni: &ldquo;Non installare il driver&rdquo; e &ldquo;Installa il software del driver&rdquo;"></p>
+<p>Ma non basta. La versione di Windows 8.1 64Bit rompe ancora le scatole!!! In realtà il messaggio è inutile perchè è sufficiente premere il pulsante reset del Trinket per riavviarlo e tutto sembra tornare a posto. <img src="/images/post/image_thumb12.png" alt="Finestra di dialogo di &ldquo;Risoluzione di problemi di compatibilità programma&rdquo;. È necessario un driver con firma digitale. LibUSB-Win32 - Kernel Driver. L&rsquo;installazione di un driver senza firma digitale è stata bloccata. Disinstallare il programma o il dispositivo che utilizza il driver e visitare il sito Web dell&rsquo;entità di pubblicazione per ottenere una versione del driver con firma digitale."></p>
+<p><em>Nota: Il sito segnato in questo messaggio, contiene i sorgenti del drivers USB. Varrebbe la pena metterci il naso dentro. Si tratta infatti di un driver USB generico che consente ad un programmatore di campagna di bypassare tutta la parte di programmazione kernel mode di Windows per accedere in semplicità a propri progetti hardware basati su USB.</em></p>
+<p>Eccoci qua. Siamo a posto.</p>
+<p><img src="/images/post/image_thumb13.png" alt="Lista di dispositivi. Tra cui &ldquo;USBtinyISP AVR Programmer&rdquo;, figlio di &ldquo;LibUSB-Win32 Devices&rdquo;"></p>
+<h3 id="fase-2-configurare-lide-di-arduino">Fase 2: Configurare l’IDE di Arduino</h3>
+<p>Ora è necessario modificare leggermente l’ambiente IDE di Arduino per supportare un nuovo tipo di Arduino (il Trinket). Dopo aver installato l’IDE (usare la versione 1.0.5!!) scaricare <a href="http://learn.adafruit.com/system/assets/assets/000/010/777/original/trinkethardwaresupport.zip?1378321062">questo file</a> zip. Al suo interno c’è una cartella hardware che va messa cartella Documenti/Arduino. <em>(Attento. Questa cartella NON è nell’albero delle cartelle dell’IDE… si trova in Documenti)</em> <img src="/images/post/image_thumb14.png" alt="Finestra di esplora risorse che mostra le cartelle &ldquo;libraries&rdquo; e &ldquo;hardware&rdquo;"></p>
+<p>OK. Ora lanciamo l’IDE e verifichiamo dal menu Strumenti che veda un nuovo tipo di Arduino che è appunto il Trinket. <img src="/images/post/image_thumb15.png" alt="Screenshot dell' IDE di Arduino con l&rsquo;opzione &ldquo;Strumenti&rdquo; > &ldquo;Tipo di Arduino&rdquo; > &ldquo;Arduino Uno&rdquo; selezionata"></p>
+<p>Ora serve un file .conf che va scaricato <a href="http://learn.adafruit.com/system/assets/assets/000/010/769/original/avrdude.conf?1378221965">da qui</a>   e va messo nella cartella hardware\tools\avr\etc dell’IDE al posto di quello di Arduino originale (meglio rinominare l’attuale quindi).</p>
+<p><img src="/images/post/image_thumb16.png" alt="Finestra di esplora risorse che mostra il file &ldquo;avrdude.conf&rdquo;"></p>
+<h3 id="fase-3-opzionale-sostituire-il-loaderlinker">Fase 3 (Opzionale): sostituire il loader/linker</h3>
+<p>Sul sito di Lady Ada, si raccomanda di sostituire il loader/linker di Arduino perchè ha un bug. Non consente di linkare moduli superiori di 4K quindi, se si desidera patchare il proprio IDE per questa cosa, <a href="http://learn.adafruit.com/system/assets/assets/000/010/983/original/WINDOWS_ld.zip?1379343097">scaricare questo EXE</a> zippato e inserirlo nella directory dell’IDE hardware\tools\avr\bin.</p>
+<h3 id="fase-4-test-a-questo-punto-è-possibile-provare-il-mitico-blinkino-ma-attenzione-a-due-cose">Fase 4: test A questo punto è possibile provare il mitico blink.ino, ma attenzione a due cose:</h3>
+<ul>
+<li>il led da far lampeggiare è sul pin 1 e non sul 13</li>
+<li>il tipo di Arduino da usare è il Trinket.</li>
+</ul>
+<p><img src="/images/post/image_thumb17.png" alt="Screenshot dell' IDE di Arduino con l&rsquo;opzione &ldquo;Strumenti&rdquo; > &ldquo;Tipo di Arduino&rdquo; > &ldquo;Adafruit Trinket 8MHz&rdquo; selezionata"></p>
+<p>Per programmarlo inoltre fare attenzione alle seguenti cose</p>
+<ul>
+<li>selezionare il programmatore USBTinyISP</li>
+<li>premere il pulsante di reset sul Trinket in modo da portarlo in boot mode (led rosso lampeggia a 2Hz)</li>
+</ul>
+<p><img src="/images/post/image_thumb18.png" alt="Screenshot dell' IDE di Arduino con l&rsquo;opzione &ldquo;Strumenti&rdquo; > &ldquo;Programmatore&rdquo; > &ldquo;USBtinyISP&rdquo; selezionata"></p>
+<p>Stay Tuned!</p>
+
+        </div>
+
+        
+        <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "fablabromagna" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+<footer>
+  <div class="container">
+    <div class="row" style="padding-top: 50px;">
+      <div class="col-lg-3 col-sm-6 mb-5">
+        <h6 class="mb-4">Contatti</h6>
+        <ul class="list-unstyled">
+          <li class="mb-3"><i class="ti-location-pin mr-3 text-primary"></i>Cesena, Italy</li>
+          <li class="mb-3"><a class="text-dark" href="mailto:posta@fablabromagna.org"><i
+                class="ti-email mr-3 text-primary"></i>posta@fablabromagna.org</a>
+          </li>
+        </ul>
+      </div>
+      <div class="col-lg-3 col-sm-6 mb-5">
+        <h6 class="mb-4">Social</h6>
+        <ul class="list-unstyled">
+          
+          <li class="mb-3"><a class="text-dark" href="https://github.com/fablabromagna-org">github</a></li>
+          
+          <li class="mb-3"><a class="text-dark" href="https://www.instagram.com/fablabromagna/">instagram</a></li>
+          
+          <li class="mb-3"><a class="text-dark" href="https://www.facebook.com/fablabromagna/">facebook</a></li>
+          
+          <li class="mb-3"><a class="text-dark" href="#">more</a></li>
+          
+        </ul>
+      </div>
+      <div class="col-lg-3 col-sm-6 mb-5">
+        <h6 class="mb-4">Categorie</h6>
+      </div>
+      <div class="col-lg-3 col-sm-6 mb-5">
+        <h6 class="mb-4">Link Rapidi</h6>
+        <ul class="list-unstyled">
+          
+          <li class="mb-3"><a class="text-dark" href="https://fablabromagna.org/about">Informazioni</a></li>
+          
+          <li class="mb-3"><a class="text-dark" href="https://fablabromagna.org/blog">Post</a></li>
+          
+          <li class="mb-3"><a class="text-dark" href="https://fablabromagna.org/contact">Contatti</a></li>
+          
+        </ul>
+      </div>
+      <div class="col-12 border-top py-4 text-center">
+        | copyright © 2020 FabLab Romagna A.P.S. |
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script>
+  var indexURL = "https://fablabromagna.org/index.json"
+</script>
+
+<!-- JS Plugins -->
+
+<script src="https://fablabromagna.org/plugins/jQuery/jquery.min.js"></script>
+
+<script src="https://fablabromagna.org/plugins/bootstrap/bootstrap.min.js"></script>
+
+<script src="https://fablabromagna.org/plugins/slick/slick.min.js"></script>
+
+<script src="https://fablabromagna.org/plugins/venobox/venobox.min.js"></script>
+
+<script src="https://fablabromagna.org/plugins/search/fuse.min.js"></script>
+
+<script src="https://fablabromagna.org/plugins/search/mark.js"></script>
+
+<script src="https://fablabromagna.org/plugins/search/search.js"></script>
+
+<!-- Main Script -->
+
+<script src="https://fablabromagna.org/js/script.min.js"></script>
+<!-- google analitycs -->
+<script>
+  (function (i, s, o, g, r, a, m) {
+    i['GoogleAnalyticsObject'] = r;
+    i[r] = i[r] || function () {
+      (i[r].q = i[r].q || []).push(arguments)
+    }, i[r].l = 1 * new Date();
+    a = s.createElement(o),
+      m = s.getElementsByTagName(o)[0];
+    a.async = 1;
+    a.src = g;
+    m.parentNode.insertBefore(a, m)
+  })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+  ga('create', 'Your ID', 'auto');
+  ga('send', 'pageview');
+</script></body>
+</html>

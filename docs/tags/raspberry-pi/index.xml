@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>raspberry pi on FabLab Romagna</title>
+    <link>https://fablabromagna.org/tags/raspberry-pi/</link>
+    <description>Recent content in raspberry pi on FabLab Romagna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <lastBuildDate>Fri, 18 Mar 2016 14:50:54 +0000</lastBuildDate><atom:link href="https://fablabromagna.org/tags/raspberry-pi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Corso gratuito Raspberry Pi</title>
+      <link>https://fablabromagna.org/blog/corso-gratuito-raspberry-pi-cesena-rimini-forli_old/</link>
+      <pubDate>Fri, 18 Mar 2016 14:50:54 +0000</pubDate>
+      
+      <guid>https://fablabromagna.org/blog/corso-gratuito-raspberry-pi-cesena-rimini-forli_old/</guid>
+      <description>Corsi a Cesena Docente: Stefano Castagnoli
+Professione: Ingegnere e Insegnante Tecnico Pratico di Informatica</description>
+    </item>
+    
+  </channel>
+</rss>

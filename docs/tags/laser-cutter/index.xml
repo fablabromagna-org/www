@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laser cutter on FabLab Romagna</title>
+    <link>https://fablabromagna.org/tags/laser-cutter/</link>
+    <description>Recent content in Laser cutter on FabLab Romagna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <lastBuildDate>Thu, 05 Jul 2018 14:43:50 +0000</lastBuildDate><atom:link href="https://fablabromagna.org/tags/laser-cutter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alternanza Scuola Lavoro Nel FabLab</title>
+      <link>https://fablabromagna.org/blog/alternanza-scuola-lavoro-nel-fablab/</link>
+      <pubDate>Thu, 05 Jul 2018 14:43:50 +0000</pubDate>
+      
+      <guid>https://fablabromagna.org/blog/alternanza-scuola-lavoro-nel-fablab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Corso gratuito CAD/CAM &amp; Laser Cutter</title>
+      <link>https://fablabromagna.org/blog/corso-gratuito-cadcam-lasercutter/</link>
+      <pubDate>Fri, 28 Apr 2017 08:01:54 +0000</pubDate>
+      
+      <guid>https://fablabromagna.org/blog/corso-gratuito-cadcam-lasercutter/</guid>
+      <description>Dal ProgeCAD alla laser cutter - Corso di CAD 2D Elementi base di CAD 2D, col software ProgeCAD, per arrivare a progettare oggetti prodotti da una laser cutter.</description>
+    </item>
+    
+  </channel>
+</rss>
